@@ -7,12 +7,6 @@ spring:
     username: admin
     password: admin
     
-management:
-  endpoints:
-    web:
-      exposure:
-        include: bus-refresh
-  
     
 #server:
 #  port: 8001 
